@@ -23,8 +23,10 @@ ResNet50 was chosen as it allowed us to move to a larger or smaller architecture
 
 # Methods
 Stage 1: classification (pre-processing)
+<img src="https://github.com/peterzrz/MedicalML/blob/master/images/img3.png" height=100% width=100%>
 
 Stage 2: Segmentation
+<img src="https://github.com/peterzrz/MedicalML/blob/master/images/img2.png" height=100% width=100%>
 
 # Results
 **Stage 1 - Classification**
